@@ -4,7 +4,7 @@ public class PrimeNumber {
 	public static void main(String[] args) {
 		 boolean isPrime = true;
 		        int[] intArray =new int[100];
-		 
+		 //p
 		        int j=1;
 		        intArray[0]=2;
 		        for (int i = 3; j < 100; i++) {
